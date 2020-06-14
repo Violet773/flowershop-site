@@ -83,7 +83,7 @@ header #header_in {
         margin-right: 0.3rem; }
       header #header_in #pc_navi a {
         text-decoration: none;
-        color: #a4a4a4;
+        color: #887f69;
         font-weight: bold;
         margin-left: 1.5rem;
         letter-spacing: 0; } }
@@ -108,8 +108,9 @@ button {
 .sp-title {
   text-align: center;
   font-size: 1.8rem;
-  color: #887f69;
-  font-weight: 500; }
+  color: #465902;
+  font-weight: 500;
+  font-weight: bold; }
 
 .pc-title {
   display: none; }
@@ -124,7 +125,7 @@ button {
     font-size: 2.0rem;
     font-weight: bold;
     margin: 3.0rem 0;
-    color: #887f69;
+    color: #465902;
     letter-spacing: 0.1rem; } }
 .monthly-product {
   box-sizing: border-box;
@@ -319,7 +320,7 @@ button {
   .shopinfo-text .shp-name {
     font-family: "Julius Sans One", sans-serif;
     letter-spacing: 0;
-    font-size: 1.4rem; }
+    font-size: 1.7rem; }
   @media (min-width: 550px) {
     .shopinfo-text .p {
       font-size: 1.2rem; } }
