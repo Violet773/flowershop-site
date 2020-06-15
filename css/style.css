@@ -108,9 +108,7 @@ button {
 .sp-title {
   text-align: center;
   font-size: 1.8rem;
-  color: #465902;
-  font-weight: 500;
-  font-weight: bold; }
+  font-weight: 500; }
 
 .pc-title {
   display: none; }
@@ -125,7 +123,6 @@ button {
     font-size: 2.0rem;
     font-weight: bold;
     margin: 3.0rem 0;
-    color: #465902;
     letter-spacing: 0.1rem; } }
 .monthly-product {
   box-sizing: border-box;
